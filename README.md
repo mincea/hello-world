@@ -1,2 +1,2 @@
 # hello-world
-Hi, my name is Mincea
+I am Sam.
